@@ -1,7 +1,11 @@
 ## Hey 👋, This is Amelia 
 
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-amelia.marshanda20@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amelia.marshanda20@gmail.com)](mailto:amelia.marshanda20@gmail.com) 
+🌱 I’m currently learning :
+- Web Development
+- Data Science
+
+📫 How to reach me: 
+[![Gmail Badge](https://img.shields.io/badge/-amelia.marshanda20@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amelia.marshanda20@gmail.com)](mailto:amelia.marshanda20@gmail.com) 
 
 <!--
 **Amelia-ux/Amelia-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
