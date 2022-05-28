@@ -5,6 +5,7 @@
 - Data Science
 
 📫 How to reach me: 
+
 [![Gmail Badge](https://img.shields.io/badge/-amelia.marshanda20@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amelia.marshanda20@gmail.com)](mailto:amelia.marshanda20@gmail.com) 
 
 <!--
