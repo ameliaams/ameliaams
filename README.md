@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Web Development
 [![Gmail Badge](https://img.shields.io/badge/-amelia.marshanda20@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:amelia.marshanda20@gmail.com)](mailto:amelia.marshanda20@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Amelia Syahputri-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Amelia Syahputri/)](https://www.linkedin.com/in/Amelia Syahputri/) [![Github Badge](https://img.shields.io/badge/-Ameliaux-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Ameliaux/)](https://www.github.com/Ameliaux/) 
+[![Linkedin Badge](https://img.shields.io/badge/-amelia-syahputri-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amelia-syahputri/)](https://www.linkedin.com/in/Amelia-syahputri/) [![Github Badge](https://img.shields.io/badge/-Ameliaux-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Ameliaux/)](https://www.github.com/Ameliaux/) 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Ameliaux alt=Ameliaux /> </p>
 
