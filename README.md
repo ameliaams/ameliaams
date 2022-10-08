@@ -1,10 +1,5 @@
 ## Hey 👋, This is Amelia 
 
-<h3 align="left">I’m currently learning :</h3>
-
-- Web Development
-- Data Science
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ameliaa_ms" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ameliaa_ms" height="30" width="40" /></a>
@@ -23,6 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amelia-ux&show_icons=true&locale=en" alt="amelia-ux" /></p>
 
 <!--
+<h3 align="left">I’m currently learning :</h3>
+
+- Web Development
+- Data Science
+
 **Amelia-ux/Amelia-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
