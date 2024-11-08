@@ -4,7 +4,7 @@
 
 ---
 
-I’m a fresh graduate with a bachelor’s degree in **Information Technology**. Passionate about creating efficient and impactful digital solutions, I specialize in **backend development** and **database management**. I also enjoy building seamless fullstack applications that bring ideas to life!
+Passionate about creating efficient and impactful digital solutions, I specialize in **backend development** and **database management**. I also enjoy building seamless fullstack applications that bring ideas to life!
 
 - 🌱 Constantly learning and exploring **fullstack technologies**
 - 🤝 Open to collaboration on **innovative projects** that can make a difference
